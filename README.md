@@ -1,7 +1,7 @@
 
 #Instalação e configuração
 
-Para instalar o DashBoard em seu máquina é preciso ter node.js, npm e o React instalado no seu pc.
+Para instalar o DashBoard em sua máquina é preciso ter node.js, npm e o React instalado no seu pc.
 Usando o cmd entrando no diretório local execute o comando (npm start).
 A Documentação do app está dentro do diretório src na pasta docs.
 Vai ter toda documentação salva em pdf ou arquivo de texto word, e também a imagens com o modelo do layout.
